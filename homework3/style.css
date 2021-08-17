@@ -1,0 +1,27 @@
+body {
+    font-family: Tahoma, sans-serif;
+    font-size: 15px;
+}
+
+.table {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.table th {
+    padding: 5px;
+    text-align: left;
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: #eee;
+}
+
+.table td {
+    padding: 5px;
+    border: 1px solid black;
+}
+
+.table tfoot td {
+    padding: 7px;
+    background-color: #ccc;
+}

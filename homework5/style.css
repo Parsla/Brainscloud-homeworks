@@ -1,0 +1,93 @@
+body {
+    /* margin-top: 20px ; */
+
+    font-style: Tahoma, sans-serif;
+    font-size: 15px;
+    color: #121212;
+
+    background-color: #f2f2f2;
+}
+
+/* Form */
+
+.auth {
+    width: 358px;
+    padding: 20px;
+    margin: 20px auto 0;
+    padding: 20px;
+
+    border: 1px solid #d0d0d0;
+    background-color: white;
+}
+
+.form-fieldset {
+    margin-bottom: 40px;
+}
+
+.form-title {
+    margin-top: 0;
+
+    font-size: 18px;
+    color: #1784bc;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-group-sm {
+    margin-bottom: 10px;
+}
+
+.form-input,
+.form-textarea,
+.form-select {
+    width: 326px;
+    padding: 10px 15px;
+
+    font-family: inherit;
+    font-size: 15px;
+    color: #121212;
+
+    background-color: #fff;
+    border: 1px solid #d0d0d0;
+}
+
+.form-textarea {
+    height: 78px;
+}
+
+.form-select {
+    width: 358px;
+}
+
+.form-input:focus,
+.form-textarea:focus,
+.form-select:focus {
+    border-color: #bbddf5;
+    background-color: #ebf4fe;
+    outline: none;
+}
+
+
+/* Button */
+
+.btn {
+    padding: 8px 15px;
+
+    font-family: inherit;
+    font-size: 15px;
+    color: white;
+
+    border: none;
+}
+
+.btn-green {
+    background-color: #97c89a;
+}
+
+.btn-gray {
+    background-color: #acacac;
+}
+
+

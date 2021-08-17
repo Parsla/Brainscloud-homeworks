@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+
+    background-color: #f4f4f4;
+
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    line-height: 1.5;
+    color: #121212;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: border-box;
+}
+
+hr {
+    margin: 30px 0;
+}
+
+.container {
+    width: 800px;
+    padding: 30px;
+    margin: 20px auto;
+
+    background-color: #fff;
+    border-radius: 30px;
+    box-shadow: 0 0 30px rgba(0, 0, 0, .1);
+}
+
+
+.google-fonts-title {
+    margin: 20px 0;
+
+    font-family: 'Lora', serif;
+    font-size: 30px;
+    color: #e53030;
+}
+
+.google-fonts-text {
+    font-family: 'Caveat', cursive;
+}
